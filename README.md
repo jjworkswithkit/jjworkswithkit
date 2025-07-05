@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there, I'm Jayesh Jadhav (JJ)
+  Hey there, I'm Jayesh Jadhav (JJ) 👨‍💻✨
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
@@ -9,23 +9,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Java+%7C+Spring+Boot+%7C+React;Creating+immersive+UI+animations;Exploring+AI+integration+patterns" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imjayeshjadhav&theme=radical&margin-w=15&column=4" alt="trophies" />
-</div>
-
 ---
 
 ### 🧑‍💻 About Me
 
-I'm Jayesh — a curious coder and creative thinker from India 🇮🇳 with a passion for building innovative, user-focused applications. Whether it's a slick mobile UI or a robust backend API, I love engineering clean, maintainable, and impactful solutions.
+Hey! I'm Jayesh — a code crafter from 🇮🇳 who builds robust backends, elegant frontends, and adds that ✨extra✨ magic to every UI.  
+Whether it's a seamless booking system or a 3D portfolio, I love turning logic into interactive beauty.
 
-- 🎓 I'm currently pursuing Computer Engineering and learning from **every line of code I write**.
-- 🔥 I'm driven by the idea of making tech simple and accessible — from **campus tools** to **AI-integrated systems**.
-- 🎯 I strive for performance, precision, and pixel perfection in every project.
+- 🎓 Pursuing Computer Engineering  
+- 💡 Believer in "less complexity, more usability"  
+- 🧩 Passionate about combining performance + design  
+- ❤️ Also love chai, late-night debugging, and soft rain
 
 ---
 
-### 🧠 What I Do
+### 💼 What I Do
 
 <table>
 <tr>
@@ -53,11 +51,11 @@ I'm Jayesh — a curious coder and creative thinker from India 🇮🇳 with a p
   <td>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Swing-ED8B00?style=flat" />
-    <img src="https://img.shields.io/badge/DSA-white?style=flat" />
+    <img src="https://img.shields.io/badge/DSA-000000?style=flat" />
   </td>
 </tr>
 <tr>
-  <td><b>🌐 Tools & Platforms</b></td>
+  <td><b>🛠️ Tools & Platforms</b></td>
   <td>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
@@ -82,31 +80,40 @@ I'm Jayesh — a curious coder and creative thinker from India 🇮🇳 with a p
   _📱 React Native + Node.js + Clerk | Track 💰 income & expenses, view 📊 analytics, and manage transactions in real time_
 
 - 🗒️ [**JJ-Notebook**](https://github.com/imjayeshjadhav/JJ-Notebook)  
-  _🧾 MERN stack note app with secure auth, responsive UI, and smooth real-time editing_
+  _🧾 MERN stack note app with secure auth, responsive UI, and real-time editing_
 
 - 🧠 [**AI Interview App**](https://github.com/imjayeshjadhav/ai_interview)  
-  _🗣️ React + Gemini AI | Simulate interviews, receive smart feedback, and prep confidently_
+  _🗣️ React + Gemini AI | Simulate interviews, get smart feedback, and boost confidence_
 
 - 🌍 [**JJ Travista – Travel Agency**](https://github.com/your-repo)  
-  _✈️ React + Appwrite + Syncfusion | AI-backed trip planner with admin panel support_
+  _✈️ React + Appwrite + Syncfusion | AI-assisted trip planner with admin panel_
 
 - 🏦 [**JJBank**](https://github.com/imjayeshjadhav/jjbank)  
-  _💳 Java Swing + JDBC + MySQL | Desktop banking system with auth, transactions, and statements_
+  _💳 Java Swing + JDBC + MySQL | Secure banking system with transactions & statements_
 
 - 🧑‍💻 [**JJ-3D Portfolio**](https://github.com/imjayeshjadhav/JJ-3D.Portfolio)  
-  _🖼️ React + Three.js + GSAP | 3D interactive portfolio with scroll-based animations_
+  _🖼️ React + Three.js + GSAP | Interactive scroll-based portfolio with 3D effects_
 
 ---
 
 ### 📚 Currently Learning
 
-- 📦 Advanced **Spring Boot** & Dockerized Microservices  
-- 🤖 Building with **LangChain**, **LLMs**, and **Vector DBs**  
-- 🛡️ Strengthening backend architecture with **JWT**, **REST**, and **Redis**
+- 📦 Advanced **Spring Boot**, Microservices, and Docker  
+- 🤖 Building smart AI tools with **LangChain**, **LLMs**, and **Vector DBs**  
+- 🧱 Architecting scalable systems using **JWT**, **Redis**, and **RESTful APIs**
 
 ---
 
-### 📬 Let’s Connect
+### 🏆 Achievements & Highlights
+
+- ✅ Finalist – **Smart India Hackathon** (Virtual Herbal Garden Project)  
+- 🕹️ Built an award-based gaming site: [jjgaming.vercel.app](https://jjgaming.vercel.app)  
+- 👨‍🏫 Hosted React & GitHub workshops on campus  
+- 🗺️ Developed map utilities using **Leaflet** & **MapLibre**
+
+---
+
+### 📬 Let's Connect
 
 - 📧 Email: [14jayeshjadhav@gmail.com](mailto:14jayeshjadhav@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/imjayeshjadhav](https://www.linkedin.com/in/jayesh-jadhav-813b36291/)  
@@ -116,7 +123,12 @@ I'm Jayesh — a curious coder and creative thinker from India 🇮🇳 with a p
 
 ### ⚡ Fun Fact
 
-> I once debugged a relationship harder than my Java code — and trust me, Java was easier.
+> I animate buttons with GSAP for fun...  
+> Then crush backend logic while sipping chai ☕.  
+>  
+> And my love story?  
+> I once debugged a relationship harder than my Java code — and trust me, Java was easier.  
+> Some commits were never meant to be `pushed`. 
 
 ---
 
